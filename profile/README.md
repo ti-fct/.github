@@ -13,16 +13,6 @@ A Faculdade de Ciências e Tecnologia da Universidade Federal de Goiás (FCT/UFG
 
 ---
 
-## Nosso Trabalho 💻
-
-Aqui, você encontrará:
-
-- **Hospedagem de Códigos:** Projetos, scripts, e ferramentas que impulsionam soluções tecnológicas.  
-- **Serviços Integrados:** APIs, bibliotecas e integrações para facilitar o desenvolvimento e a colaboração.  
-- **Contribuição Open Source:** Incentivamos a participação da comunidade para inovar e compartilhar conhecimento.
-
----
-
 ## Como Contribuir 🤝
 
 Sua colaboração é muito bem-vinda! Veja como você pode participar:
