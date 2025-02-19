@@ -13,16 +13,6 @@ A Faculdade de Ciências e Tecnologia da Universidade Federal de Goiás (FCT/UFG
 
 ---
 
-## Como Contribuir 🤝
-
-Sua colaboração é muito bem-vinda! Veja como você pode participar:
-
-1. **Abrir Issues:** Reporte problemas ou sugira melhorias para nossos projetos.  
-2. **Enviar Pull Requests:** Contribua com código e ajude a aprimorar nossas soluções.  
-3. **Seguir as Diretrizes:** Confira nosso guia de contribuição no arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para manter a qualidade e a organização dos projetos.
-
----
-
 ## Contato 📞
 
 Para saber mais sobre nossos projetos e iniciativas, acesse o [site da FCT/UFG](https://fct.ufg.br) ou entre em contato pelos canais oficiais da instituição.
